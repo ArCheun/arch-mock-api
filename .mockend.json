@@ -5,9 +5,9 @@
   },
   "Tag": {
     "name": "string"
-  }
+  },
   "Todo": {
-    "category": "Category"
+    "category": "Category",
     "title": "string",
     "description": "string",
     "status": "int",
