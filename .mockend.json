@@ -1,0 +1,16 @@
+{
+  "Category": {
+    "name": "string",
+    "todos": "Todo[]"
+  },
+  "Tag": {
+    "name": "string"
+  }
+  "Todo": {
+    "category": "Category"
+    "title": "string",
+    "description": "string",
+    "status": "int",
+    "tags": "Tag[]"
+  }
+}
